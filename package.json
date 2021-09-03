@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/@musique/cli",
+    "packages/@musique/core",
+    "packages/@musique/plugin-notes",
+    "packages/docs"
+  ],
+  "license": "MIT"
+}

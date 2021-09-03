@@ -1,0 +1,13 @@
+{
+  "name": "@musique/cli",
+  "author": "shizuku",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "bin": {
+    "musique": "lib/cli.js"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

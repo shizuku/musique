@@ -1,0 +1,10 @@
+{
+  "name": "@musique/core",
+  "author": "shizuku",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
